@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BRK-PB - Basisregistratie Kadaster Publiekrechtelijke Beperkingenbesluiten"
+    id="id-aca87ca1-7ecf-11e3-67ab-0050568a6153"
+    documentation="Landelijke registratie van publiekrechtelijke beperkingen die op een bepaald perceel rusten.">
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke voorziening"/>
+  <properties
+      key="Object ID"
+      value="aca87ca1-7ecf-11e3-67ab-0050568a6153"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,17 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TPOD Omgevingsplan (actueel)"
+    id="id-1cdf373c7815489693412c8667a61216">
+  <properties
+      key="GEMMA type"
+      value="Standaardversie"/>
+  <properties
+      key="Versieaanduiding"
+      value="Actueel"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="5504f232-00a8-4c9c-a66c-5b2b470c904b"/>
+</archimate:Constraint>
